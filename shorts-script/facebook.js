@@ -1,1 +1,0 @@
-<div class="fb-page" data-href="https://www.facebook.com/tni24.arabic/" data-width="360" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
