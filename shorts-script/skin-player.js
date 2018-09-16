@@ -1,1 +1,0 @@
-data-cfasync="false">function(e,t,n,c,o){n[e]=n[e]||{},n[e][o]=n[e][o]||function(){(n[e].q=n[e].q||[]).push(arguments)},o=c.getElementsByTagName(t)[0],c=c.createElement(t),c.async=1,c.src=("file:"==location.protocol?"https:":"")+"//s.reembed.com/G-XmOl31.js",o.parentNode.insertBefore(c,o)}("reEmbed","script",window,document,"api");
